@@ -1,0 +1,24 @@
+{
+  "name": "Mocking-Spongebob-Twitter-Bot",
+  "version": "1.0.0",
+  "description": "Copies a random tweet and tweeting it in \"MoCkINg SpOngEbOB MEme\" text format",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitharvey/Mocking-Spongebob-Twitter-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitharvey/Mocking-Spongebob-Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/kitharvey/Mocking-Spongebob-Twitter-Bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
