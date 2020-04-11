@@ -1,6 +1,7 @@
 # Mocking-Spongebob-Twitter-Bot
-Copies a random tweet and tweeting it in "MoCkINg SpOngEbOB MEme" text format
-This project was made just for fun, trolling on twitter.
+This project was made just for fun.
+Copies a random tweet and tweeting it in "MoCkINg SpOngEbOB MEme" text format.
+Go troll on twitter.
 
 ## Set Up
 #### Initialize node package management
