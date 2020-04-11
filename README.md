@@ -12,7 +12,7 @@ This project was made just for fun, trolling on twitter.
 
 
 ## Code
-```
+```javascript
 // Mocking Spongebob Meme twitter bot
 // Mocks on random tweet
 // Copies a tweet and convert to Mocking Spongebob Meme Text
