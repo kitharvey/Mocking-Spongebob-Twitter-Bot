@@ -10,6 +10,8 @@ This project was made just for fun, trolling on twitter.
 #### Create Twitter App on https://developer.twitter.com/ and Get your Twitter API
 
 
+
+## Code
 ```
 // Mocking Spongebob Meme twitter bot
 // Mocks on random tweet
